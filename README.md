@@ -1,7 +1,7 @@
 # Blood Bank Management System
 
-![developer](https://img.shields.io/badge/Maintained%20By%20%3A-KahlubDev-blue)
-![original developer](https://img.shields.io/badge/Original%20Author%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Maintained%20By%20%3A-robertkipkurui21-afk-blue)
+
 
 ---
 
