@@ -8,7 +8,7 @@
 ## Credits & Acknowledgments
 This project is a modernized version of the original **Blood Bank Management System** created by **Sumit Kumar**. 
 
-* **Original Repository:** [sumitkumar1503/bloodbankmanagement](https://github.com/sumitkumar1503/bloodbankmanagement)
+* **Original Repository:** [Robert/bloodbankmanagement](robertkipkurui21-afk/bloodbankmanagement)
 * **Modifications in this version:** Updated setup compatibility for Python 3.12+, removed hardcoded secrets in favor of `django-environ`, fixed legacy dependency issues, and updated setup instructions.
 
 ---
