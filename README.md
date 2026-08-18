@@ -1,6 +1,6 @@
 # Blood Bank Management System
 
-![developer](https://img.shields.io/badge/Maintained%20By%20%3A-robertkipkurui21-afk-blue)
+
 
 
 ---
